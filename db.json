@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "tasktest1",
+      "mobile": "",
+      "salary": "",
+      "date": null
+    },
+    {
+      "id": 3,
+      "title": "test",
+      "mobile": "",
+      "salary": "",
+      "date": null
+    },
+    {
+      "id": 4,
+      "title": "sujit.chandanshive@gmail.com",
+      "mobile": "",
+      "salary": "",
+      "date": null
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
